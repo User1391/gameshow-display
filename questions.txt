@@ -1,8 +1,3 @@
-What year was UVA founded?; UVA; 1819
-What is the name of the former UVA student who authored the poem, "The Raven"?; UVA; Edgar Allen Poe
-What is the name of Thomas Jefferson's Estate?; UVA; Monticello
-How many terms did Thomas Jefferson serve as President?; UVA; 2
-What is UVA's oldest secret society?; UVA; Jefferson Literary and Debating Society
 What is the closest US state to the continent of Africa; Geography; Maine
 Which two Great Lakes does New York border?; Geography; Lakes Erie and Ontario
 Which four states meet at the Four Corners?; Geography; Arizona, Utah, and New Mexico
