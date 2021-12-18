@@ -32,11 +32,6 @@ def get_question_ans_set(category, group_dict):
     # gives [question, answer], questions left, question index
     return questions[rand], len(questions)-1, rand
 
-#finding absolute path for this device
-#dirname = os.path.dirname(__file__)
-#fq = os.path.join(dirname, 'questions.txt')
-
-#parsing through txt input
 with open("questions.txt") as questions:
     lines = questions.readlines()
     qlist = []
@@ -59,8 +54,6 @@ root = Tk()
 sideWindow = tk.Toplevel(root)
 root.title("HOOSmarter")
 root.configure(background="#0b48a6")
-
-
 
 text = StringVar()
 text.set('')
